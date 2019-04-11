@@ -1,0 +1,7 @@
+[package]
+name = "sparse_merkle"
+version = "0.1.0"
+authors = ["schaeff <thibaut@schaeff.fr>"]
+edition = "2018"
+
+[dependencies]
